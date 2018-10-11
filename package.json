@@ -1,8 +1,11 @@
 {
-  "name": "b5-costa-mccrae-300-ipip-neo-pi-r",
+  "name": "@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r",
   "description": "Module for returning Big Five Costa and McCrae's 300 IPIP-NEO-PI-R items",
   "version": "1.0.0",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": {
     "name": "Jonas Enge",
     "email": "jonas.enge@t-fk.no",
@@ -17,14 +20,14 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=8.11.1"
+    "node": ">=10.0.0"
   },
   "files": [
     "data/",
     "index.js"
   ],
   "scripts": {
-    "test": "standard && nsp check && ava",
+    "test": "standard && npm audit && ava",
     "test-offline": "standard && ava",
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
@@ -39,16 +42,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alheimsins/b5-b5-costa-mccrae-300-ipip-neo-pi-r.git"
+    "url": "git+https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r.git"
   },
   "bugs": {
-    "url": "https://github.com/Alheimsins/b5-b5-costa-mccrae-300-ipip-neo-pi-r/issues"
+    "url": "https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r/issues"
   },
-  "homepage": "https://github.com/Alheimsins/b5-b5-costa-mccrae-300-ipip-neo-pi-r#readme",
+  "homepage": "https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r#readme",
   "devDependencies": {
     "ava": "0.25.0",
     "coveralls": "3.0.2",
-    "nsp": "3.2.1",
     "nyc": "13.0.1",
     "standard": "12.0.1"
   },
