@@ -50,7 +50,7 @@
   "homepage": "https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r#readme",
   "devDependencies": {
     "ava": "2.4.0",
-    "coveralls": "3.0.8",
+    "coveralls": "3.0.9",
     "nyc": "15.0.0",
     "standard": "14.3.1"
   },
