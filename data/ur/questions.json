@@ -840,420 +840,420 @@
     "id": "588256fc-b70a-4c8d-b5ee-4bef3823760b"
   },
   {
-    "text": "Have a vivid imagination",
+    "text": "واضع تصور رکھتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
     "id": "a6af1b8a-b0b8-49e7-9493-e14843d2d08b"
   },
   {
-    "text": "Enjoy wild flights of fantasy",
+    "text": "جنونی خوابوں خیالوں کی دنیا سے لطف اندوز ہوتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
     "id": "f83df8ad-e2e4-4a6f-8d39-f35c4c3dddc8"
   },
   {
-    "text": "Love to daydream",
+    "text": "خیالی پلاو بنانا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
     "id": "2efd44dc-a9ee-4f30-8154-9d9b979c05d3"
   },
   {
-    "text": "Like to get lost in thought",
+    "text": "خیالوں میں گم ہو جانا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
     "id": "b74bb1bc-9122-438c-8ce2-c0b9b9711836"
   },
   {
-    "text": "Indulge in my fantasies",
+    "text": "اپنی خیالی دنیا میں گم رہتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
     "id": "ca2633aa-03aa-437d-b274-59056113fd9d"
   },
   {
-    "text": "Spend time reflecting on things",
+    "text": "چیزوں کے بارے میں غور کرنے میں وقت صرف کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
     "id": "09bec973-85ca-45ca-b749-0815645b3dd8"
   },
   {
-    "text": "Seldom daydream",
+    "text": "کبھی کبھار ہی خیالی پلاو بناتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 1,
     "id": "65075f79-0618-4405-a30a-bddd2033e488"
   },
   {
-    "text": "Do not have a good imagination",
+    "text": "اچھی تصوارتی صلاحیت نہیں رکھتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 1,
     "id": "1596ddd9-f814-44ce-a8b3-b022b05c1be4"
   },
   {
-    "text": "Seldom get lost in thought",
+    "text": "کبھی کبھار خیالوں میں کھو جاتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 1,
     "id": "672dd713-e45a-4db2-83fb-a343672ef0e5"
   },
   {
-    "text": "Have difficulty imagining things",
+    "text": "چیزوں کا تصور کرنے میں مشکل پیش آتی ہے",
     "keyed": "minus",
     "domain": "O",
     "facet": 1,
     "id": "e750f9bc-e5a2-4be0-a1d9-9bd44404c8f4"
   },
   {
-    "text": "Believe in the importance of art",
+    "text": "فنون لطیفہ کی اہمیت پر یقین کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 2,
     "id": "2811c270-0a1f-41d4-b8e4-9f66b5fe5d9a"
   },
   {
-    "text": "Like music",
+    "text": "موسیقی پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 2,
     "id": "00e5db36-c57a-493a-a247-e930ba4adab8"
   },
   {
-    "text": "See beauty in things that others might not notice",
+    "text": "چیزوں میں وہ خوبصورتی دیکھتا ہوں جو شائد دوسرے نہیں دیکھتے",
     "keyed": "plus",
     "domain": "O",
     "facet": 2,
     "id": "14b1909c-f8a5-438b-96e5-4bafb6e48e4e"
   },
   {
-    "text": "Love flowers",
+    "text": "پھول پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 2,
     "id": "484b254d-a6e6-48c9-8260-b80993c827dd"
   },
   {
-    "text": "Enjoy the beauty of nature",
+    "text": "قدرتی خوبصورتی سے لطف اندوز ہوتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 2,
     "id": "56882cde-d659-4362-b671-9edf4c9e8776"
   },
   {
-    "text": "Do not like art",
+    "text": "فنون لطیفہ پسند نہیں کرتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 2,
     "id": "0f7c46a9-206f-4904-878c-cc04c80b2b73"
   },
   {
-    "text": "Do not like poetry",
+    "text": "شاعری پسند نہیں کرتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 2,
     "id": "d2a20236-cbe2-454d-9c4f-c9431594e290"
   },
   {
-    "text": "Do not enjoy going to art museums",
+    "text": "فنی عجائب گھر جانے سے لطف اندوز نہیں ہوتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 2,
     "id": "2700cd47-3bf0-4a02-88e7-4371b0118b9f"
   },
   {
-    "text": "Do not like concerts",
+    "text": "محافل موسیقی پسند نہیں کرتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 2,
     "id": "e0146dc4-3bd6-4bf3-9333-c395903b7634"
   },
   {
-    "text": "Do not enjoy watching dance performances",
+    "text": "رقص پسند نہیں کرتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 2,
     "id": "1dd6562b-1f2f-40ef-bc3b-de9cf29726bd"
   },
   {
-    "text": "Experience my emotions intensely",
+    "text": "اپنے جذبات کو شدت سے محسوس کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 3,
     "id": "e02863d6-675e-40e5-be03-0c01583c3cc3"
   },
   {
-    "text": "Feel others' emotions",
+    "text": "دوسروں کے جذبات محسوس کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 3,
     "id": "6177fab6-7991-4fa5-a1f4-f1414204a212"
   },
   {
-    "text": "Am passionate about causes",
+    "text": "معاشرتی تحاریک کے بارے میں پر جوش ہو جاتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 3,
     "id": "d88e4d0c-8244-4963-b8a1-da2abb5b05be"
   },
   {
-    "text": "Enjoy examining myself and my life",
+    "text": "اپنی ذات اور زندگی کو پرکھنے میں لطف اندوز ہوتا رہتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 3,
     "id": "570cafed-f31d-4a20-8cd4-f6f7f6bcc041"
   },
   {
-    "text": "Try to understand myself",
+    "text": "اپنے آپ کو سمجھنے کی کوشش کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 3,
     "id": "3b2aac98-1dc1-4008-aa0f-49c724131ab4"
   },
   {
-    "text": "Seldom get emotional",
+    "text": "کبھی کبھار جذباتی ہو جاتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 3,
     "id": "0950ed48-be00-4bfb-90a1-ca74c4afa698"
   },
   {
-    "text": "Am not easily affected by my emotions",
+    "text": "اپنے جذبات کے ہاتھوں مغلوب نہیں ہوتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 3,
     "id": "0335272e-776e-41bc-be96-41bcff2fb2fa"
   },
   {
-    "text": "Rarely notice my emotional reactions",
+    "text": "بہت کم اپنے جذباتی رد عمل کے بارے میں سوچتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 3,
     "id": "29106f95-b15b-4644-ab47-63cc19a5d2fe"
   },
   {
-    "text": "Experience very few emotional highs and lows",
+    "text": "بہت کم انتہائ جذبات کو محسوس کرتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 3,
     "id": "6b6d9f8e-c369-4c4f-a0bb-9a5718bc3251"
   },
   {
-    "text": "Don't understand people who get emotional",
+    "text": "جذباتی لوگوں کو نہیں سمجھ پاتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 3,
     "id": "cbd346d0-deaf-488e-a367-e2b0f2365976"
   },
   {
-    "text": "Prefer variety to routine",
+    "text": "معمول کے بجاے تبدیلی کو پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 4,
     "id": "e6ef4591-3a72-4afe-b972-657a88968612"
   },
   {
-    "text": "Like to visit new places",
+    "text": "نئے مقامات پر جانا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 4,
     "id": "cb119de9-19c1-447e-8425-36917f083129"
   },
   {
-    "text": "Am interested in many things",
+    "text": "بہت سی چیزوں میں دلچسپی رکھتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 4,
     "id": "67e2f7cb-4a6c-4ca1-a43b-07379a1062b4"
   },
   {
-    "text": "Like to begin new things",
+    "text": "نئی چیزیں شروع کرنا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 4,
     "id": "9e5019c0-2c79-4e1b-99b5-c8ab4cfb7757"
   },
   {
-    "text": "Prefer to stick with things that I know",
+    "text": "ان چیزوں پر اعتبار کرتا ہوں جن کو میں جانتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
     "id": "f1c8a514-2ada-4909-ac0c-ad96200e4abb"
   },
   {
-    "text": "Dislike changes",
+    "text": "تبدیلی پسند نہیں کرتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
     "id": "8f26d8b0-6d90-4aa8-b80b-ddcd01276610"
   },
   {
-    "text": "Don't like the idea of change",
+    "text": "تبدیلی کے خیال کو نا پسند کرتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
     "id": "17400f8f-5e63-49c0-98d2-271dcaac5dfa"
   },
   {
-    "text": "Am a creature of habit",
+    "text": "میں اپنی عادات کا پابند ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
     "id": "43773f0f-f52c-4d3e-b235-09ae1618dfe2"
   },
   {
-    "text": "Dislike new foods",
+    "text": "نئے پکوان نا پسند کرتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
     "id": "9801494a-ff22-4454-b8e8-d9a3d40b65ba"
   },
   {
-    "text": "Am attached to conventional ways",
+    "text": "میں روایات کا پابند ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
     "id": "19aa16ad-dcd8-4625-ba83-d853df428063"
   },
   {
-    "text": "Like to solve complex problems",
+    "text": "پیچیدہ مسائل کو حل کرنا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 5,
     "id": "77389cb7-4795-487d-8b2a-8f39b3bb3fd7"
   },
   {
-    "text": "Love to read challenging material",
+    "text": "مشکل مواد پڑھنا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 5,
     "id": "e5529ccc-a2c0-4c64-8ca4-5067d6cdca9b"
   },
   {
-    "text": "Have a rich vocabulary",
+    "text": "ذخیرہ الفاظ رکھتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 5,
     "id": "e171f17e-f024-4bc2-a517-78de27112b2d"
   },
   {
-    "text": "Can handle a lot of information",
+    "text": "زیادہ معلومات کو سنبھال سکتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 5,
     "id": "44f39de6-0aad-4b39-8ff7-f83d4a6c2f4e"
   },
   {
-    "text": "Enjoy thinking about things",
+    "text": "چیزوں کے بارے میں سوچنے سے لطف اندوز ہوتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 5,
     "id": "1b35542b-400f-4717-b9ce-b71ccf025782"
   },
   {
-    "text": "Am not interested in abstract ideas",
+    "text": "کتابی خیالات کو پسند نہیں کرتا",
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
     "id": "b99a005c-090c-454d-a905-dd0082a33ee3"
   },
   {
-    "text": "Avoid philosophical discussions",
+    "text": "فلسفیانہ بحث سے پرہیز کرتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
     "id": "f32c5265-ef8f-495d-8a2a-49a1518c94a1"
   },
   {
-    "text": "Have difficulty understanding abstract ideas",
+    "text": "کتابی خیالات کو سمجھنے میں دشواری محسوس کرتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
     "id": "114ee7b7-7bad-4ccd-9a42-64ee995ead0c"
   },
   {
-    "text": "Am not interested in theoretical discussions",
+    "text": "مجھے فلسفیانہ مباحث پسند نہیں ہیں",
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
     "id": "8da65a81-1037-48b8-b7c0-46104164d980"
   },
   {
-    "text": "Avoid difficult reading material",
+    "text": "مشکل کتابیں پڑھنے سے گریز کرتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
     "id": "77ab2d67-c94e-4789-bea0-4fdc25bd1f5f"
   },
   {
-    "text": "Tend to vote for liberal political candidates",
+    "text": "آزاد خیال سیاسی امیدواروں کو ووٹ دیتا ہوں",
     "keyed": "plus",
     "domain": "O",
     "facet": 6,
     "id": "c7d8b21a-bcad-44b2-8064-916b520d7653"
   },
   {
-    "text": "Believe that there is no absolute right and wrong",
+    "text": "یقین رکھتا ہوں کہ کچھ بھی مکمل طور پر غلط یا صحیح نہیں ہوتا",
     "keyed": "plus",
     "domain": "O",
     "facet": 6,
     "id": "fb22d2fd-e87c-4b43-8267-5bcab7a41754"
   },
   {
-    "text": "Believe that criminals should receive help rather than punishment",
+    "text": "یقین رکھتا ہوں کہ مجرموں کو سزا کے بجاے مدد ملنی چاھیے",
     "keyed": "plus",
     "domain": "O",
     "facet": 6,
     "id": "03f5706f-0963-4c30-a760-58b60ab7385c"
   },
   {
-    "text": "Believe in one true religion",
+    "text": "ایک سچے مذہب پر یقین رکھتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
     "id": "6b752044-700e-4247-a5d4-041dd7205f36"
   },
   {
-    "text": "Tend to vote for conservative political candidates",
+    "text": "قدامت پسند سیاسی امیدواروں کو ووٹ دینا پسند کرتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
     "id": "05197664-1356-410f-a7ea-404a8870cd56"
   },
   {
-    "text": "Believe that too much tax money goes to support artists",
+    "text": "سوچتا ہوں کے ٹیکس کا بہت زیادہ حصہ فنکاروں کی بہبود میں جاتا ہے",
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
     "id": "a5ada539-65bb-4210-b1bd-671d20265258"
   },
   {
-    "text": "Believe laws should be strictly enforced",
+    "text": "یقین رکھتا ہوں کہ قوانین کا سختی سے نفاذ کیا جانا چاھیے",
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
     "id": "c1d74094-d74f-4f8f-8498-a8661871b8de"
   },
   {
-    "text": "Believe that we coddle criminals too much",
+    "text": "یقین رکھتا ہوں کے ہم جرائم پیشہ لوگوں کا ضرورت سے زیادہ لحاظ کرتے ہیں",
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
     "id": "300cc19d-0250-40b2-99b3-66889c755974"
   },
   {
-    "text": "Believe that we should be tough on crime",
+    "text": "یقین رکھتا ہوں کے ہمیں جرائم پر سختی کرنی چاھیئے",
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
     "id": "14b539a4-e556-44aa-b971-6f55a3f51085"
   },
   {
-    "text": "Like to stand during the national anthem",
+    "text": "قومی ترانے کے دوران کھڑا ہوتا ہوں",
     "keyed": "minus",
     "domain": "O",
     "facet": 6,

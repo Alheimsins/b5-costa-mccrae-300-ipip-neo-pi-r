@@ -38,8 +38,8 @@ test('it throws error for lang xx', t => {
 })
 
 test('validation of question ids across languages', t => {
-  const languages = getInfo().languages
-  const questions = languages.map(getItems)
+  const { languages } = getInfo()
+  const questions = languages.map(lang => getItems(lang.id))
   const ids = questions.map(qs => qs.map(q => q.id))
   ids.reduce((previous, current) => {
     if (previous !== false) {
