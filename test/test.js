@@ -30,11 +30,10 @@ test('basic inventory tests', t => {
 
 test('it throws error for lang xx', t => {
   const expectedErrorMessage = 'Inventory not found. Try another language input.'
-  try {
+  const error = t.throws(() => {
     getItems('xx')
-  } catch (e) {
-    t.is(e.message, expectedErrorMessage)
-  }
+  }, { instanceOf: Error })
+  t.is(error.message, expectedErrorMessage)
 })
 
 test('validation of question ids across languages', t => {
@@ -71,6 +70,6 @@ test('random inventory items', t => {
 })
 
 test('test all languages', t => {
-  const languages = getInfo().languages
-  languages.map(language => t.truthy(getItems(language, false), `${language} items ok`))
+  const { languages } = getInfo()
+  languages.map(language => t.truthy(getItems(language.id, false), `${language} items ok`))
 })
