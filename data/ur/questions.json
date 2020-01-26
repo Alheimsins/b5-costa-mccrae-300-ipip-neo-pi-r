@@ -1260,420 +1260,420 @@
     "id": "d6cfa490-4f8e-480b-bbbc-8ad28c4be253"
   },
   {
-    "text": "Trust others",
+    "text": "دوسروں پر بھروسہ کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
     "id": "994d90c7-e508-4620-a11c-6f712d348a24"
   },
   {
-    "text": "Believe that others have good intentions",
+    "text": "یقین کر لیتا ہوں کے دوسرے اچھی نیت رکھتے ہیں",
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
     "id": "c2470197-feb1-4464-bdde-9d286e1a125f"
   },
   {
-    "text": "Trust what people say",
+    "text": "لوگوں کے بیان پر بھروسہ کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
     "id": "5f12c699-9d2c-4672-b177-cae4c88be53c"
   },
   {
-    "text": "Believe that people are basically moral",
+    "text": "یقین کرتا ہوں کے لوگ بنیادی طور پر مہذب ہوتے ہیں",
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
     "id": "e58d66f8-54d0-4780-bbd2-a3bc59a81b22"
   },
   {
-    "text": "Believe in human goodness",
+    "text": "انسانوں کی بھلائی پر یقین رکھتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
     "id": "c6c28ea2-99ea-44eb-8ac8-3c27503ff71e"
   },
   {
-    "text": "Think that all will be well",
+    "text": "سوچتا ہوں کہ سب ٹھیک ہو جائے گا",
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
     "id": "a61647a1-8580-4345-9486-ebd813e12bea"
   },
   {
-    "text": "Distrust people",
+    "text": "لوگوں پر اعتبار نہیں کرتا",
     "keyed": "minus",
     "domain": "A",
     "facet": 1,
     "id": "03cbbe84-c3d0-4652-ba46-0d92316c9963"
   },
   {
-    "text": "Suspect hidden motives in others",
+    "text": "دوسروں کے پوشیدہ مقاصد کے بارے شک میں رہتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 1,
     "id": "9ab95f24-5f94-429e-be1e-2275a806b5db"
   },
   {
-    "text": "Am wary of others",
+    "text": "میں دوسروں سے محتاط رہتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 1,
     "id": "ddb00e19-948a-4ab7-aa41-2f3e762ba683"
   },
   {
-    "text": "Believe that people are essentially evil",
+    "text": "یقین رکھتا ہوں کے انسان فطری طور پر برا ہے",
     "keyed": "minus",
     "domain": "A",
     "facet": 1,
     "id": "ced7ecd7-6691-4d74-a884-75131a07ba87"
   },
   {
-    "text": "Would never cheat on my taxes",
+    "text": "ٹیکس دینے میں دھوکہ نہیں دیتا",
     "keyed": "plus",
     "domain": "A",
     "facet": 2,
     "id": "1c12e62d-073f-4caf-be9c-bf4686e979cf"
   },
   {
-    "text": "Stick to the rules",
+    "text": "قوائد پر پابند رہتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 2,
     "id": "72657d06-482e-4ef6-afdd-69cf8b4c7b11"
   },
   {
-    "text": "Use flattery to get ahead",
+    "text": "آگے بڑھنے کے لیے خوشآمد کا استعمال کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "3d8359f5-9439-43c1-a3eb-c1f60730bd79"
   },
   {
-    "text": "Use others for my own ends",
+    "text": "دوسروں کو اپنے مقاصد کے لیے استعمال کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "a8d3f337-a6e7-485f-8eb0-541d73a8873c"
   },
   {
-    "text": "Know how to get around the rules",
+    "text": "جانتا ہوں کے قوائد و ضوابط سے کیسے کھیلنا ہے",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "60cf6936-ebc3-41ce-862b-9bb7e7489130"
   },
   {
-    "text": "Cheat to get ahead",
+    "text": "آگے بڑھنے کے لیے دھوکا دیتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "41f72f01-4e68-4d87-958f-28e752cabded"
   },
   {
-    "text": "Put people under pressure",
+    "text": "لوگوں کو دباو میں رکھتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "dcee7b69-8782-4bde-88f9-8bc5714029d4"
   },
   {
-    "text": "Pretend to be concerned for others",
+    "text": "دوسروں کے لیے فکر مند ہونے کا بہانہ کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "dcc021c4-1277-4a55-92af-3fad1183cfc5"
   },
   {
-    "text": "Take advantage of others",
+    "text": "دوسروں کا فائدہ اٹھاتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "05863ff1-1c05-4453-a0ad-5c1678be1801"
   },
   {
-    "text": "Obstruct others' plans",
+    "text": "دوسروں کے منصوبوں میں رکاوٹ بنتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
     "id": "eb715333-e856-47f1-95e5-e4aa6d605d1f"
   },
   {
-    "text": "Make people feel welcome",
+    "text": "لوگوں کو خوش آمدیدگی کا احساس دلاتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 3,
     "id": "b634d72c-a843-486b-a6db-cbc2a6272411"
   },
   {
-    "text": "Anticipate the needs of others",
+    "text": "دوسروں کی ضروریات کا اندازہ لگا لیتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 3,
     "id": "1060c00e-0076-434a-85be-2fe8b569f01e"
   },
   {
-    "text": "Love to help others",
+    "text": "دوسروں کی مدد کرنا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 3,
     "id": "61eab458-5201-41c9-81ad-46308370d075"
   },
   {
-    "text": "Am concerned about others",
+    "text": "دوسروں کے بارے میں فکر مند رہتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 3,
     "id": "1c776a7b-b1c1-4978-ae65-7039ff2c6f9f"
   },
   {
-    "text": "Have a good word for everyone",
+    "text": "ہر ایک کو اچھے الفاظ میں یاد کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 3,
     "id": "4b4e9c5d-78d4-4b0a-b1ea-820077bb700a"
   },
   {
-    "text": "Look down on others",
+    "text": "دوسروں کو حقارت کی نگاہ سے دیکھتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 3,
     "id": "e2f5fd6f-2eb2-4799-8b80-5be13d5105aa"
   },
   {
-    "text": "Am indifferent to the feelings of others",
+    "text": "میں دوسروں کے احساسات سے لا تعلق رہتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 3,
     "id": "3dcfcd14-b5a5-42b3-816f-ddd54ed23236"
   },
   {
-    "text": "Make people feel uncomfortable",
+    "text": "لوگوں کو بے چین کر دیتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 3,
     "id": "c1eb9122-7026-498f-93e7-198de26459dd"
   },
   {
-    "text": "Turn my back on others",
+    "text": "دوسروں سے بے رخی برتتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 3,
     "id": "f8082669-7fe0-4984-8d0f-c5ca501fa164"
   },
   {
-    "text": "Take no time for others",
+    "text": "دوسروں کے لیے وقت نہیں نکالتا",
     "keyed": "minus",
     "domain": "A",
     "facet": 3,
     "id": "e4457630-1e61-4bbd-b469-ccf6fe39d14d"
   },
   {
-    "text": "Am easy to satisfy",
+    "text": "آسانی سے مطمئن ہو جاتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 4,
     "id": "1f7abb76-7b6d-4404-a584-822049d4f3cd"
   },
   {
-    "text": "Can't stand confrontations",
+    "text": "مخالفت کا سامنا نہیں کر سکتا",
     "keyed": "plus",
     "domain": "A",
     "facet": 4,
     "id": "8b5c52b7-4806-46e4-aeb0-c373d03cd57e"
   },
   {
-    "text": "Hate to seem pushy",
+    "text": "جلد بازی سے نفرت کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 4,
     "id": "e834ae33-0184-4e27-b181-b62f96fd5bfb"
   },
   {
-    "text": "Have a sharp tongue",
+    "text": "چرب زبان ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
     "id": "027a663a-217d-4b3b-b9c7-c26498a9ab47"
   },
   {
-    "text": "Contradict others",
+    "text": "دوسروں کے نفی کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
     "id": "f88c75dc-b754-4019-9d57-cd460f4a240a"
   },
   {
-    "text": "Love a good fight",
+    "text": "اچھی لڑائ پسند کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
     "id": "2d2373e0-9c5d-40b3-9154-3751190e2a30"
   },
   {
-    "text": "Yell at people",
+    "text": "لوگوں پر چلاتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
     "id": "0b418fdf-3799-4914-b33e-fdbbd9adf36f"
   },
   {
-    "text": "Insult people",
+    "text": "لوگوں کی توہین کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
     "id": "c888948b-db19-4994-8146-a00ed56338b3"
   },
   {
-    "text": "Get back at others",
+    "text": "دوسروں پر جوابی کروائئ کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
     "id": "a92ec5d8-ebdd-496a-9c09-83749cca9f07"
   },
   {
-    "text": "Hold a grudge",
+    "text": "رنجش رکھتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
     "id": "f0760f11-2667-47be-a38c-1e4bb60e9016"
   },
   {
-    "text": "Dislike being the center of attention",
+    "text": "توجہ کا مرکز بننا نا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 5,
     "id": "0d986f84-25ff-4238-9de5-e5583e367c84"
   },
   {
-    "text": "Dislike talking about myself",
+    "text": "اپنے متعلق بات کرنا نا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 5,
     "id": "f57aaef2-d82a-469c-9e0c-c6414c2465fa"
   },
   {
-    "text": "Consider myself an average person",
+    "text": "خود کو ایک متوسط شخص سمجھتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 5,
     "id": "71bf51dc-b78a-4726-8746-bc24f07e2358"
   },
   {
-    "text": "Seldom toot my own horn",
+    "text": "اپنی تعریف بہت کم کرتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 5,
     "id": "7144b66c-6309-40c3-92d7-fcab6cb1880c"
   },
   {
-    "text": "Believe that I am better than others",
+    "text": "مجھے یقین ہے کہ میں دوسروں سے بہترہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
     "id": "1ce56e3c-9532-465d-8c90-1401c2c452aa"
   },
   {
-    "text": "Think highly of myself",
+    "text": "اپنے آپ کو اعلی سمجھتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
     "id": "65a66207-5878-4ddf-aa87-879238118c69"
   },
   {
-    "text": "Have a high opinion of myself",
+    "text": "اپنے بارے میں اعلی رائے رکھتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
     "id": "0b4e3ec1-a903-48d4-bcba-004efdf2c49f"
   },
   {
-    "text": "Know the answers to many questions",
+    "text": "بہت سارے سوالات کے جوابات جانتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
     "id": "f3b75fb2-954f-4f1a-8e21-c9bfec48f13f"
   },
   {
-    "text": "Boast about my virtues",
+    "text": "اپنی اچھائیاں لوگوں سے فخریہ بیان کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
     "id": "30b96645-c840-47e0-a234-f493042ca271"
   },
   {
-    "text": "Make myself the center of attention",
+    "text": "اپنے آپ کو توجہ کا مرکز بناتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
     "id": "c6387505-d460-4d2c-9b53-6de11dca6bd7"
   },
   {
-    "text": "Sympathize with the homeless",
+    "text": "بے گھر لوگوں کے ساتھ ہمدردی رکھتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 6,
     "id": "2876c9a5-8eed-4c66-a7c1-4fa85160b67b"
   },
   {
-    "text": "Feel sympathy for those who are worse off than myself",
+    "text": "ان کے لیے ہمدردی رکھتا ہوں جو مچھ سے زیادہ برے حال میں ہیں",
     "keyed": "plus",
     "domain": "A",
     "facet": 6,
     "id": "a8fd3569-970b-441c-bb91-1c80d345b7ae"
   },
   {
-    "text": "Value cooperation over competition",
+    "text": "مقابلے پر تعاون کو ترجیح دیتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 6,
     "id": "e92157d1-0ffd-48bc-ab2d-55debd8bfb7a"
   },
   {
-    "text": "Suffer from others' sorrows",
+    "text": "دوسروں کے دکھوں میں گھر جاتا ہوں",
     "keyed": "plus",
     "domain": "A",
     "facet": 6,
     "id": "bf41eadf-db57-4f77-a167-5a54f31ee3ac"
   },
   {
-    "text": "Am not interested in other people's problems",
+    "text": "دوسروں کے مسائل میں دلچسپی نہیں لیتا",
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
     "id": "67831f48-fc0e-41a5-ba21-6c11439cd0f2"
   },
   {
-    "text": "Tend to dislike soft-hearted people",
+    "text": "نرم دل لوگوں کو پسند نہیں کرتا",
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
     "id": "3a2734c7-7009-4f93-bc32-731d795f18ae"
   },
   {
-    "text": "Believe in an eye for an eye",
+    "text": "آنکھ کے بدلے آنکھ کے اصول پر اعتبار کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
     "id": "4f291823-e354-4a06-9234-f72aa97d0948"
   },
   {
-    "text": "Try not to think about the needy",
+    "text": "ضرورت مندوں کے بارے میں نہ سوچنے کی کوشش کرتا ہوں",
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
     "id": "1f44531f-9c9d-4157-9cc5-43abcaec8f0c"
   },
   {
-    "text": "Believe people should fend for themselves",
+    "text": "یقین رکھتا ہوں کے لوگوں کو اپنی مدد آپ کرنی چاھیے",
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
     "id": "66d1af62-ade3-43fd-895f-3ffc508d1562"
   },
   {
-    "text": "Can't stand weak people",
+    "text": "کمزور لوگ برداشت نہیں ہوتے",
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
