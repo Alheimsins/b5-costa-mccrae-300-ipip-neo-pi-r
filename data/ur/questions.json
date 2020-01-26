@@ -1680,420 +1680,420 @@
     "id": "8ccfff55-81af-4e3c-9370-f1e0aee38c4b"
   },
   {
-    "text": "Complete tasks successfully",
+    "text": "کامیابی سی کام مکمل کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
     "id": "e9a05b4b-86ec-424b-baa3-4f7e662ba3bc"
   },
   {
-    "text": "Excel in what I do",
+    "text": "وہ کرتا ہوں جس میں مہارت رکھتا ہو",
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
     "id": "7bfa8136-d5f5-4c45-97fe-0136e43c0adf"
   },
   {
-    "text": "Handle tasks smoothly",
+    "text": "کام آسانی سے سنبھال لیتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
     "id": "50cd8405-5616-4802-a76a-a8ff5f5543e7"
   },
   {
-    "text": "Am sure of my ground",
+    "text": "مجھے اپنے نظریہ پر کامل بھروسہ ہے",
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
     "id": "463f8ce2-80cf-45af-b1c5-c18e8af457dd"
   },
   {
-    "text": "Come up with good solutions",
+    "text": "اچھے حل نکال لیتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
     "id": "04949c7c-bd1e-42d9-b323-4b98e0d27313"
   },
   {
-    "text": "Know how to get things done",
+    "text": "جانتا ہوں کہ چیزوں کو کیسے کرنا ہے",
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
     "id": "0fdcd99c-964a-427d-8764-c9fca6a67fd4"
   },
   {
-    "text": "Misjudge situations",
+    "text": "صورتحال کے متعلق غلط رائے قائم کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 1,
     "id": "5df93585-564d-4f11-96ab-2a11d2586785"
   },
   {
-    "text": "Don't understand things",
+    "text": "چیزوں کی سمجھ نہیں آتی",
     "keyed": "minus",
     "domain": "C",
     "facet": 1,
     "id": "48971f35-374a-437c-9530-df37c002881f"
   },
   {
-    "text": "Have little to contribute",
+    "text": "بہت کم مدد کر سکتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 1,
     "id": "4cb9dae3-be63-4909-9fed-975349c8b3f9"
   },
   {
-    "text": "Don't see the consequences of things",
+    "text": "چیزوں کے نتائج پر نظر نہیں رکھتا",
     "keyed": "minus",
     "domain": "C",
     "facet": 1,
     "id": "301b5227-b668-4d01-b13b-f26f2c98628a"
   },
   {
-    "text": "Like order",
+    "text": "ترتیب پسند ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 2,
     "id": "8499753e-f6a6-4da2-b422-a90d2d2b1ccb"
   },
   {
-    "text": "Like to tidy up",
+    "text": "صفائی کرنا پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 2,
     "id": "0d6749f3-3938-4ecf-a6db-baf352e500aa"
   },
   {
-    "text": "Want everything to be 'just right'",
+    "text": "چاہتا ہوں کہ ہر چیز بالکل ٹھیک ہو",
     "keyed": "plus",
     "domain": "C",
     "facet": 2,
     "id": "e3917c20-c6cb-40e6-8e55-db1867980fe5"
   },
   {
-    "text": "Love order and regularity",
+    "text": "ترتیب اور باقاعدگی پسند کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 2,
     "id": "f9feae1a-af97-414d-9acc-646e7489bd95"
   },
   {
-    "text": "Do things according to a plan",
+    "text": "چیزوں کو منصوبے کے مطابق کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 2,
     "id": "11b84279-d608-4dc1-9bc7-d3e89c9a7a54"
   },
   {
-    "text": "Often forget to put things back in their proper place",
+    "text": "اکثر چیزوں کو ان کی جگہ پر واپس رکھنا بھول جاتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
     "id": "f9e80153-f660-4e57-8bf5-f9e8519178a5"
   },
   {
-    "text": "Leave a mess in my room",
+    "text": "اپنے کمرے میں بے ترتیبی پاتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
     "id": "bda2a84f-8848-4e1d-9e2d-c2825bf1b444"
   },
   {
-    "text": "Leave my belongings around",
+    "text": "اپنا سامان ادھر ادھر چھوڑ دیتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
     "id": "ae1d2f2d-bde7-4874-a18b-7060396b0881"
   },
   {
-    "text": "Am not bothered by messy people",
+    "text": "میں گندے لوگوں سے پریشان نہیں ہوتا",
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
     "id": "c1234450-706b-4957-b3d7-951a709dc5ec"
   },
   {
-    "text": "Am not bothered by disorder",
+    "text": "بے ترتیبی سے پریشان نہیں ہوتا",
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
     "id": "9eb317ce-e924-4746-886c-68b57350b625"
   },
   {
-    "text": "Try to follow the rules",
+    "text": "قوائد کی پیروی کرنے کی کوشش کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 3,
     "id": "2d25c586-be58-4f56-8f85-c3bce7e35d68"
   },
   {
-    "text": "Keep my promises",
+    "text": "اپنے وعدے پورے کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 3,
     "id": "8af9b7e5-1895-462a-8fa7-31e0fc7fe835"
   },
   {
-    "text": "Pay my bills on time",
+    "text": "واجبات وقت پر ادا کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 3,
     "id": "7122e8b4-25bc-41e0-91d0-75f36efca8b3"
   },
   {
-    "text": "Tell the truth",
+    "text": "سچ بولتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 3,
     "id": "089f7c9b-fd46-4d9f-8969-2e0bed648ba4"
   },
   {
-    "text": "Listen to my conscience",
+    "text": "اپنے ضمیر کی آواز کو سنتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 3,
     "id": "c444f6a1-161c-438c-90e4-9472358ed8cb"
   },
   {
-    "text": "Break rules",
+    "text": "قوائد کی خلاف ورزی کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 3,
     "id": "7465f64c-606b-483f-8821-e05f7ba63b99"
   },
   {
-    "text": "Break my promises",
+    "text": "وعدے توڑ دیتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 3,
     "id": "7e9bbf18-18d9-437a-8f55-b0dd75fa2e39"
   },
   {
-    "text": "Get others to do my duties",
+    "text": "دوسروں سے اپنے کام کرواتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 3,
     "id": "7a1efb6f-3dec-4a92-a7cd-596639efddec"
   },
   {
-    "text": "Do the opposite of what is asked",
+    "text": "دوسروں سے بے رخی برتتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 3,
     "id": "8b3dbf42-ee9b-4331-8a30-7e074bea4671"
   },
   {
-    "text": "Misrepresent the facts",
+    "text": "حقیقت کی غلط تشریح کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 3,
     "id": "a540a084-723c-4848-9b8b-cbba87a9927f"
   },
   {
-    "text": "Go straight for the goal",
+    "text": "منزل کے لیے سیدھا راستہ اختیار کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
     "id": "69da6943-0b08-4624-8154-6154069a557a"
   },
   {
-    "text": "Work hard",
+    "text": "محنت کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
     "id": "2a807dbd-04c6-4452-bf67-c49520a0af98"
   },
   {
-    "text": "Turn plans into actions",
+    "text": "منصوبوں کو عملی شکل دیتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
     "id": "aaeb3c9a-aefa-4628-ad58-ceaa374c87c3"
   },
   {
-    "text": "Plunge into tasks with all my heart",
+    "text": "دل جوئی سے کام کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
     "id": "2ae3bbea-37b8-47e0-ae09-3ba05a49dc67"
   },
   {
-    "text": "Do more than what's expected of me",
+    "text": "اپنے سے لگائی گئی امیدوں سے بہترکام کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
     "id": "a54d25bd-c978-411e-9f3d-ff4612a9a2f3"
   },
   {
-    "text": "Set high standards for myself and others",
+    "text": "اپنے لیے مشکل ہدف کا انتخاب کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
     "id": "13cc6183-efc0-4dc0-b8f2-9a122acd30af"
   },
   {
-    "text": "Demand quality",
+    "text": "معیار کا مطالبہ کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
     "id": "a4541bcb-8131-4226-9f0f-e2973f5908b6"
   },
   {
-    "text": "Am not highly motivated to succeed",
+    "text": "کامیابی حاصل کرنے کا بہت زیادہ عزم نہیں رکھت",
     "keyed": "minus",
     "domain": "C",
     "facet": 4,
     "id": "8dda8225-3655-4450-9ec6-23de9db03cdb"
   },
   {
-    "text": "Do just enough work to get by",
+    "text": "جتنا ضروری ہو بس اتنا کام کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 4,
     "id": "06248b39-32e1-42b5-b470-c25a266b8253"
   },
   {
-    "text": "Put little time and effort into my work",
+    "text": "اپنے کام پر کم وقت اور محنت صرف کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 4,
     "id": "543ead14-84d6-4400-87c0-f4c6d21dd119"
   },
   {
-    "text": "Get chores done right away",
+    "text": "معمول کے کام فورا کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 5,
     "id": "ed516b6b-2686-453e-8a7a-05fc1d8f1f64"
   },
   {
-    "text": "Am always prepared",
+    "text": "ہمیشہ تیار رہتا ہو",
     "keyed": "plus",
     "domain": "C",
     "facet": 5,
     "id": "fd2b5e09-9660-4fd6-bbd3-351196e0e556"
   },
   {
-    "text": "Start tasks right away",
+    "text": "کام فورا شروع کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 5,
     "id": "404582d1-0ff4-4c2d-8276-f5d7ed440f62"
   },
   {
-    "text": "Get to work at once",
+    "text": "کام فورا شروع کردیتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 5,
     "id": "de2fcdb3-b060-438e-829d-2dcb8c033a52"
   },
   {
-    "text": "Carry out my plans",
+    "text": "اپنے منصوبوں پر عمل کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 5,
     "id": "b890ac2a-c773-4c9e-82a1-bb751404cdb1"
   },
   {
-    "text": "Find it difficult to get down to work",
+    "text": "کام شروع کرنا مشکل لگتا ہے",
     "keyed": "minus",
     "domain": "C",
     "facet": 5,
     "id": "f39aced8-60d5-4371-962e-b0d390dec3d3"
   },
   {
-    "text": "Waste my time",
+    "text": "اپنا وقت ضائع کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 5,
     "id": "6857ac6d-6167-4036-9d93-91377e09ed0b"
   },
   {
-    "text": "Need a push to get started",
+    "text": "کام شروع کرنے کے لیے حوصلہ افزائی کی ضرورت محسوس کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 5,
     "id": "3e1158c3-1169-4e2e-b629-6c8e73268184"
   },
   {
-    "text": "Have difficulty starting tasks",
+    "text": "کام شروع کرنے میں مشکل آتی ہے",
     "keyed": "minus",
     "domain": "C",
     "facet": 5,
     "id": "87052477-7169-4e42-b9c3-22df4c0d1015"
   },
   {
-    "text": "Postpone decisions",
+    "text": "فیصلوں کو ملتوی رکھتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 5,
     "id": "4a542cc3-6c37-4944-aa07-998e40fa7d58"
   },
   {
-    "text": "Avoid mistakes",
+    "text": "غلطیوں سے اجتناب کرتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 6,
     "id": "c73100a1-5464-46a2-bbc4-263c933535ff"
   },
   {
-    "text": "Choose my words with care",
+    "text": "الفاظ کے انتخاب میں احتیاط رکھتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 6,
     "id": "4c421d92-686f-44e9-b334-5da2528d58e9"
   },
   {
-    "text": "Stick to my chosen path",
+    "text": "اپنے منتخب راستے پر قائم رہتا ہوں",
     "keyed": "plus",
     "domain": "C",
     "facet": 6,
     "id": "734e0b05-95a4-4e2b-aa4c-ec18301acf74"
   },
   {
-    "text": "Jump into things without thinking",
+    "text": "چیزوں کو بنا سوچے سمجھے کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
     "id": "6670c291-b4e4-4ae7-a78f-8cc5415d3121"
   },
   {
-    "text": "Make rash decisions",
+    "text": "جلد بازی میں فیصلے کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
     "id": "9df208d5-16d9-4338-8b30-70f9760e55ca"
   },
   {
-    "text": "Like to act on a whim",
+    "text": "اچانک آئے خیالات پر عمل کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
     "id": "8f9daa5a-95e1-47d8-a5b3-6099d1bc11c3"
   },
   {
-    "text": "Rush into things",
+    "text": "میں چیزوں میں عجلت کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
     "id": "267b02ce-0909-4e8e-9715-295ab902eb31"
   },
   {
-    "text": "Do crazy things",
+    "text": "پاگلوں والی چیزیں کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
     "id": "bf4e4595-f398-4eb6-8870-fcd078625381"
   },
   {
-    "text": "Act without thinking",
+    "text": "بغیر سوچے سمجھے کام کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
     "id": "ccc228a0-b997-410c-bc0b-23d543bd27e6"
   },
   {
-    "text": "Often make last-minute plans",
+    "text": "اکثر آخری لمحات میں منصوبہ بندی کرتا ہوں",
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
