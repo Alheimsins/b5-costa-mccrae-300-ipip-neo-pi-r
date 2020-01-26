@@ -73,6 +73,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | Code | Name      | Translator |
 | ---- | --------- | ---------- |
 | en   | English   |            |
+|ur    | Urdu      | Minhaaj Rehman |
 
 ## Help wanted
 

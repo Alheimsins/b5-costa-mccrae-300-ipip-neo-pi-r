@@ -1,4 +1,14 @@
 [
-  "en",
-  "nl"
+  {
+    "id": "en",
+    "text": "English"
+  },
+  {
+    "id": "nl",
+    "text": "Dutch"
+  },
+  {
+    "id": "ur",
+    "text": "Urdu"
+  }
 ]
