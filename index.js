@@ -16,7 +16,7 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
 
 module.exports.getInfo = () => {
   return {
-    name: `Costa and McCrae's 300 IPIP-NEO-PI-R`,
+    name: 'Costa and McCrae\'s 300 IPIP-NEO-PI-R',
     id: 'b5-costa-mccrae-300-ipip-neo-pi-r',
     shortId: 'b5-300',
     time: 20,
