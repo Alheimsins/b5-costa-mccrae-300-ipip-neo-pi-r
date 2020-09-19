@@ -15,7 +15,11 @@ $ npm i @alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
 ## Usage
 
 ```JavaScript
-const { getItems, getInfo } = require('@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r')
+const { getItems, getInfo, getChoices, getQuestions } = require('@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r')
+
+console.log(getChoices()) // returns choices in English
+
+console.log(getQuestions()) // returns questions in English
 
 console.log(getItems()) // returns English
 
@@ -73,7 +77,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | Code | Name      | Translator |
 | ---- | --------- | ---------- |
 | en   | English   |            |
-|ur    | Urdu      | Minhaaj Rehman |
+| ur   | Urdu      | Minhaaj Rehman |
 
 ## Help wanted
 
