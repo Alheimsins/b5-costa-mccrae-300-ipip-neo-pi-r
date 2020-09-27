@@ -83,6 +83,7 @@ returns an [array with questions and choices](examples/items-en.json)
 
 If you want to help by translating the items to other languages this is how you do it.
 
+### Tranlate on GitHub
 - clone the repo
 - find a language you know in [data](data)
 - duplicate the folder and rename it to the language you will translate
@@ -92,6 +93,11 @@ If you want to help by translating the items to other languages this is how you 
 - add your language code to the [data/languages.json file](data/languages.json)
 - `$ npm test`
 - submit pull request
+- happiness :-)
+
+### Translate from the web
+- visit [b5.translations.alheimsins.net](https://b5.translations.alheimsins.net/b5-costa-mccrae-300-ipip-neo-pi-r)
+- follow the instructions
 - happiness :-)
 
 ## Related
