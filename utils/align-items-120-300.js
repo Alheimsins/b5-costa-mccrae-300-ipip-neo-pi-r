@@ -1,7 +1,7 @@
 (async () => {
   const { writeFile } = require('fs').promises
   const alignment = require('./b5-300-120-alignment.json')
-  const language = 'en'
+  const language = 'nl'
   const questions = require(`../data/${language}/questions.json`)
   const getAlignment = id => alignment.find(item => item['300'] === id)
   const alignedQuestions = questions.reduce((accumulator, current) => {
